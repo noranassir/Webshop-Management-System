@@ -11,7 +11,7 @@ A console program that reads from a mock database created in MySQL, which genera
 - **Feedback**: Users receive feedback on whether the product was successfully added to their order.
 - **User-Friendly Interface**: The program ensures that users do not see internal database IDs but receive user-friendly prompts and information.
 
-### Sales Support Program (Advanced Requirement - Pass with distinction)
+### Sales Support Program 
 
 - **Customer Reports**: Generate reports listing customers who have purchased items of a specific size, color, or brand.
 - **Order Count per Customer**: Generate a report listing each customer's name and the total number of orders they have placed.
@@ -19,7 +19,7 @@ A console program that reads from a mock database created in MySQL, which genera
 - **Order Value per City**: Generate a report listing the total order value for each city.
 - **Top Selling Products**: Generate a report listing the most sold products, including the model name and the quantity sold.
 
-## Requirements for Pass with distinction
+## Requirements
 
 - **Functional Programming**: The code emphasizes functional programming with immutable variables and lambda expressions.
 - **Object-Oriented Approach**: The Java program uses object-oriented principles to represent database entities as Java classes.
